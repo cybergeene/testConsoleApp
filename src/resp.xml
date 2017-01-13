@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<reply>
+    <sms>
+        <error />
+        <submition_date>2017-01-13 13:20:54</submition_date>
+        <send_date>2017-01-13 13:20:55</send_date>
+        <last_status_change_date>2017-01-13 13:21:11</last_status_change_date>
+        <sms_id>41383110328</sms_id>
+        <status>Delivered</status>
+    </sms>
+    <sms>
+        <error>no such message or this message does not belong to you</error>
+        <sms_id>41315455532</sms_id>
+    </sms>
+    <sms>
+        <error>no such message or this message does not belong to you</error>
+        <sms_id>41316155634</sms_id>
+    </sms>
+    <sms>
+        <error>no such message or this message does not belong to you</error>
+        <sms_id>41316155632</sms_id>
+    </sms>
+</reply>
